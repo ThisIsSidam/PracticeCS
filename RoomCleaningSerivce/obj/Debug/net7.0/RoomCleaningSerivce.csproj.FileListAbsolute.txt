@@ -1,0 +1,15 @@
+C:\Users\thisi\CodeItAll\LearningCS\RoomCleaningSerivce\bin\Debug\net7.0\RoomCleaningSerivce.exe
+C:\Users\thisi\CodeItAll\LearningCS\RoomCleaningSerivce\bin\Debug\net7.0\RoomCleaningSerivce.deps.json
+C:\Users\thisi\CodeItAll\LearningCS\RoomCleaningSerivce\bin\Debug\net7.0\RoomCleaningSerivce.runtimeconfig.json
+C:\Users\thisi\CodeItAll\LearningCS\RoomCleaningSerivce\bin\Debug\net7.0\RoomCleaningSerivce.dll
+C:\Users\thisi\CodeItAll\LearningCS\RoomCleaningSerivce\bin\Debug\net7.0\RoomCleaningSerivce.pdb
+C:\Users\thisi\CodeItAll\LearningCS\RoomCleaningSerivce\obj\Debug\net7.0\RoomCleaningSerivce.csproj.AssemblyReference.cache
+C:\Users\thisi\CodeItAll\LearningCS\RoomCleaningSerivce\obj\Debug\net7.0\RoomCleaningSerivce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thisi\CodeItAll\LearningCS\RoomCleaningSerivce\obj\Debug\net7.0\RoomCleaningSerivce.AssemblyInfoInputs.cache
+C:\Users\thisi\CodeItAll\LearningCS\RoomCleaningSerivce\obj\Debug\net7.0\RoomCleaningSerivce.AssemblyInfo.cs
+C:\Users\thisi\CodeItAll\LearningCS\RoomCleaningSerivce\obj\Debug\net7.0\RoomCleaningSerivce.csproj.CoreCompileInputs.cache
+C:\Users\thisi\CodeItAll\LearningCS\RoomCleaningSerivce\obj\Debug\net7.0\RoomCleaningSerivce.dll
+C:\Users\thisi\CodeItAll\LearningCS\RoomCleaningSerivce\obj\Debug\net7.0\refint\RoomCleaningSerivce.dll
+C:\Users\thisi\CodeItAll\LearningCS\RoomCleaningSerivce\obj\Debug\net7.0\RoomCleaningSerivce.pdb
+C:\Users\thisi\CodeItAll\LearningCS\RoomCleaningSerivce\obj\Debug\net7.0\RoomCleaningSerivce.genruntimeconfig.cache
+C:\Users\thisi\CodeItAll\LearningCS\RoomCleaningSerivce\obj\Debug\net7.0\ref\RoomCleaningSerivce.dll

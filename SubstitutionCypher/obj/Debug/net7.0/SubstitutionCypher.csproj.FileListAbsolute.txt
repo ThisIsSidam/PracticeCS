@@ -1,0 +1,15 @@
+C:\Users\thisi\CodeItAll\LearningCS\SubstitutionCypher\obj\Debug\net7.0\SubstitutionCypher.csproj.AssemblyReference.cache
+C:\Users\thisi\CodeItAll\LearningCS\SubstitutionCypher\obj\Debug\net7.0\SubstitutionCypher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thisi\CodeItAll\LearningCS\SubstitutionCypher\obj\Debug\net7.0\SubstitutionCypher.AssemblyInfoInputs.cache
+C:\Users\thisi\CodeItAll\LearningCS\SubstitutionCypher\obj\Debug\net7.0\SubstitutionCypher.AssemblyInfo.cs
+C:\Users\thisi\CodeItAll\LearningCS\SubstitutionCypher\obj\Debug\net7.0\SubstitutionCypher.csproj.CoreCompileInputs.cache
+C:\Users\thisi\CodeItAll\LearningCS\SubstitutionCypher\bin\Debug\net7.0\SubstitutionCypher.exe
+C:\Users\thisi\CodeItAll\LearningCS\SubstitutionCypher\bin\Debug\net7.0\SubstitutionCypher.deps.json
+C:\Users\thisi\CodeItAll\LearningCS\SubstitutionCypher\bin\Debug\net7.0\SubstitutionCypher.runtimeconfig.json
+C:\Users\thisi\CodeItAll\LearningCS\SubstitutionCypher\bin\Debug\net7.0\SubstitutionCypher.dll
+C:\Users\thisi\CodeItAll\LearningCS\SubstitutionCypher\bin\Debug\net7.0\SubstitutionCypher.pdb
+C:\Users\thisi\CodeItAll\LearningCS\SubstitutionCypher\obj\Debug\net7.0\SubstitutionCypher.dll
+C:\Users\thisi\CodeItAll\LearningCS\SubstitutionCypher\obj\Debug\net7.0\refint\SubstitutionCypher.dll
+C:\Users\thisi\CodeItAll\LearningCS\SubstitutionCypher\obj\Debug\net7.0\SubstitutionCypher.pdb
+C:\Users\thisi\CodeItAll\LearningCS\SubstitutionCypher\obj\Debug\net7.0\SubstitutionCypher.genruntimeconfig.cache
+C:\Users\thisi\CodeItAll\LearningCS\SubstitutionCypher\obj\Debug\net7.0\ref\SubstitutionCypher.dll

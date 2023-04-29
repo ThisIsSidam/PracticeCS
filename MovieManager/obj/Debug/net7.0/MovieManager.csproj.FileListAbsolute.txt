@@ -1,0 +1,15 @@
+C:\Users\thisi\CodeItAll\LearningCS\MovieManager\obj\Debug\net7.0\MovieManager.csproj.AssemblyReference.cache
+C:\Users\thisi\CodeItAll\LearningCS\MovieManager\obj\Debug\net7.0\MovieManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thisi\CodeItAll\LearningCS\MovieManager\obj\Debug\net7.0\MovieManager.AssemblyInfoInputs.cache
+C:\Users\thisi\CodeItAll\LearningCS\MovieManager\obj\Debug\net7.0\MovieManager.AssemblyInfo.cs
+C:\Users\thisi\CodeItAll\LearningCS\MovieManager\obj\Debug\net7.0\MovieManager.csproj.CoreCompileInputs.cache
+C:\Users\thisi\CodeItAll\LearningCS\MovieManager\bin\Debug\net7.0\MovieManager.exe
+C:\Users\thisi\CodeItAll\LearningCS\MovieManager\bin\Debug\net7.0\MovieManager.deps.json
+C:\Users\thisi\CodeItAll\LearningCS\MovieManager\bin\Debug\net7.0\MovieManager.runtimeconfig.json
+C:\Users\thisi\CodeItAll\LearningCS\MovieManager\bin\Debug\net7.0\MovieManager.dll
+C:\Users\thisi\CodeItAll\LearningCS\MovieManager\bin\Debug\net7.0\MovieManager.pdb
+C:\Users\thisi\CodeItAll\LearningCS\MovieManager\obj\Debug\net7.0\MovieManager.dll
+C:\Users\thisi\CodeItAll\LearningCS\MovieManager\obj\Debug\net7.0\refint\MovieManager.dll
+C:\Users\thisi\CodeItAll\LearningCS\MovieManager\obj\Debug\net7.0\MovieManager.pdb
+C:\Users\thisi\CodeItAll\LearningCS\MovieManager\obj\Debug\net7.0\MovieManager.genruntimeconfig.cache
+C:\Users\thisi\CodeItAll\LearningCS\MovieManager\obj\Debug\net7.0\ref\MovieManager.dll
