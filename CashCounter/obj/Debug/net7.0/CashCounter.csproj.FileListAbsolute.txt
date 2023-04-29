@@ -1,0 +1,15 @@
+C:\Users\thisi\CodeItAll\LearningCS\CashCounter\obj\Debug\net7.0\CashCounter.csproj.AssemblyReference.cache
+C:\Users\thisi\CodeItAll\LearningCS\CashCounter\obj\Debug\net7.0\CashCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thisi\CodeItAll\LearningCS\CashCounter\obj\Debug\net7.0\CashCounter.AssemblyInfoInputs.cache
+C:\Users\thisi\CodeItAll\LearningCS\CashCounter\obj\Debug\net7.0\CashCounter.AssemblyInfo.cs
+C:\Users\thisi\CodeItAll\LearningCS\CashCounter\obj\Debug\net7.0\CashCounter.csproj.CoreCompileInputs.cache
+C:\Users\thisi\CodeItAll\LearningCS\CashCounter\bin\Debug\net7.0\CashCounter.exe
+C:\Users\thisi\CodeItAll\LearningCS\CashCounter\bin\Debug\net7.0\CashCounter.deps.json
+C:\Users\thisi\CodeItAll\LearningCS\CashCounter\bin\Debug\net7.0\CashCounter.runtimeconfig.json
+C:\Users\thisi\CodeItAll\LearningCS\CashCounter\bin\Debug\net7.0\CashCounter.dll
+C:\Users\thisi\CodeItAll\LearningCS\CashCounter\bin\Debug\net7.0\CashCounter.pdb
+C:\Users\thisi\CodeItAll\LearningCS\CashCounter\obj\Debug\net7.0\CashCounter.dll
+C:\Users\thisi\CodeItAll\LearningCS\CashCounter\obj\Debug\net7.0\refint\CashCounter.dll
+C:\Users\thisi\CodeItAll\LearningCS\CashCounter\obj\Debug\net7.0\CashCounter.pdb
+C:\Users\thisi\CodeItAll\LearningCS\CashCounter\obj\Debug\net7.0\CashCounter.genruntimeconfig.cache
+C:\Users\thisi\CodeItAll\LearningCS\CashCounter\obj\Debug\net7.0\ref\CashCounter.dll

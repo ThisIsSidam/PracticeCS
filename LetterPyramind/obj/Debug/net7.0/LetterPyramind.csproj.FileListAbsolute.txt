@@ -1,0 +1,15 @@
+C:\Users\thisi\CodeItAll\LearningCS\LetterPyramind\bin\Debug\net7.0\LetterPyramind.exe
+C:\Users\thisi\CodeItAll\LearningCS\LetterPyramind\bin\Debug\net7.0\LetterPyramind.deps.json
+C:\Users\thisi\CodeItAll\LearningCS\LetterPyramind\bin\Debug\net7.0\LetterPyramind.runtimeconfig.json
+C:\Users\thisi\CodeItAll\LearningCS\LetterPyramind\bin\Debug\net7.0\LetterPyramind.dll
+C:\Users\thisi\CodeItAll\LearningCS\LetterPyramind\bin\Debug\net7.0\LetterPyramind.pdb
+C:\Users\thisi\CodeItAll\LearningCS\LetterPyramind\obj\Debug\net7.0\LetterPyramind.csproj.AssemblyReference.cache
+C:\Users\thisi\CodeItAll\LearningCS\LetterPyramind\obj\Debug\net7.0\LetterPyramind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thisi\CodeItAll\LearningCS\LetterPyramind\obj\Debug\net7.0\LetterPyramind.AssemblyInfoInputs.cache
+C:\Users\thisi\CodeItAll\LearningCS\LetterPyramind\obj\Debug\net7.0\LetterPyramind.AssemblyInfo.cs
+C:\Users\thisi\CodeItAll\LearningCS\LetterPyramind\obj\Debug\net7.0\LetterPyramind.csproj.CoreCompileInputs.cache
+C:\Users\thisi\CodeItAll\LearningCS\LetterPyramind\obj\Debug\net7.0\LetterPyramind.dll
+C:\Users\thisi\CodeItAll\LearningCS\LetterPyramind\obj\Debug\net7.0\refint\LetterPyramind.dll
+C:\Users\thisi\CodeItAll\LearningCS\LetterPyramind\obj\Debug\net7.0\LetterPyramind.pdb
+C:\Users\thisi\CodeItAll\LearningCS\LetterPyramind\obj\Debug\net7.0\LetterPyramind.genruntimeconfig.cache
+C:\Users\thisi\CodeItAll\LearningCS\LetterPyramind\obj\Debug\net7.0\ref\LetterPyramind.dll

@@ -1,0 +1,15 @@
+C:\Users\thisi\CodeItAll\LearningCS\ListHandler\obj\Debug\net7.0\ListHandler.csproj.AssemblyReference.cache
+C:\Users\thisi\CodeItAll\LearningCS\ListHandler\obj\Debug\net7.0\ListHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thisi\CodeItAll\LearningCS\ListHandler\obj\Debug\net7.0\ListHandler.AssemblyInfoInputs.cache
+C:\Users\thisi\CodeItAll\LearningCS\ListHandler\obj\Debug\net7.0\ListHandler.AssemblyInfo.cs
+C:\Users\thisi\CodeItAll\LearningCS\ListHandler\obj\Debug\net7.0\ListHandler.csproj.CoreCompileInputs.cache
+C:\Users\thisi\CodeItAll\LearningCS\ListHandler\bin\Debug\net7.0\ListHandler.exe
+C:\Users\thisi\CodeItAll\LearningCS\ListHandler\bin\Debug\net7.0\ListHandler.deps.json
+C:\Users\thisi\CodeItAll\LearningCS\ListHandler\bin\Debug\net7.0\ListHandler.runtimeconfig.json
+C:\Users\thisi\CodeItAll\LearningCS\ListHandler\bin\Debug\net7.0\ListHandler.dll
+C:\Users\thisi\CodeItAll\LearningCS\ListHandler\bin\Debug\net7.0\ListHandler.pdb
+C:\Users\thisi\CodeItAll\LearningCS\ListHandler\obj\Debug\net7.0\ListHandler.dll
+C:\Users\thisi\CodeItAll\LearningCS\ListHandler\obj\Debug\net7.0\refint\ListHandler.dll
+C:\Users\thisi\CodeItAll\LearningCS\ListHandler\obj\Debug\net7.0\ListHandler.pdb
+C:\Users\thisi\CodeItAll\LearningCS\ListHandler\obj\Debug\net7.0\ListHandler.genruntimeconfig.cache
+C:\Users\thisi\CodeItAll\LearningCS\ListHandler\obj\Debug\net7.0\ref\ListHandler.dll
