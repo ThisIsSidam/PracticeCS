@@ -1,0 +1,15 @@
+C:\Users\thisi\CodeItAll\LearningCS\ListMultiplier\bin\Debug\net7.0\ListMultiplier.exe
+C:\Users\thisi\CodeItAll\LearningCS\ListMultiplier\bin\Debug\net7.0\ListMultiplier.deps.json
+C:\Users\thisi\CodeItAll\LearningCS\ListMultiplier\bin\Debug\net7.0\ListMultiplier.runtimeconfig.json
+C:\Users\thisi\CodeItAll\LearningCS\ListMultiplier\bin\Debug\net7.0\ListMultiplier.dll
+C:\Users\thisi\CodeItAll\LearningCS\ListMultiplier\bin\Debug\net7.0\ListMultiplier.pdb
+C:\Users\thisi\CodeItAll\LearningCS\ListMultiplier\obj\Debug\net7.0\ListMultiplier.csproj.AssemblyReference.cache
+C:\Users\thisi\CodeItAll\LearningCS\ListMultiplier\obj\Debug\net7.0\ListMultiplier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thisi\CodeItAll\LearningCS\ListMultiplier\obj\Debug\net7.0\ListMultiplier.AssemblyInfoInputs.cache
+C:\Users\thisi\CodeItAll\LearningCS\ListMultiplier\obj\Debug\net7.0\ListMultiplier.AssemblyInfo.cs
+C:\Users\thisi\CodeItAll\LearningCS\ListMultiplier\obj\Debug\net7.0\ListMultiplier.csproj.CoreCompileInputs.cache
+C:\Users\thisi\CodeItAll\LearningCS\ListMultiplier\obj\Debug\net7.0\ListMultiplier.dll
+C:\Users\thisi\CodeItAll\LearningCS\ListMultiplier\obj\Debug\net7.0\refint\ListMultiplier.dll
+C:\Users\thisi\CodeItAll\LearningCS\ListMultiplier\obj\Debug\net7.0\ListMultiplier.pdb
+C:\Users\thisi\CodeItAll\LearningCS\ListMultiplier\obj\Debug\net7.0\ListMultiplier.genruntimeconfig.cache
+C:\Users\thisi\CodeItAll\LearningCS\ListMultiplier\obj\Debug\net7.0\ref\ListMultiplier.dll

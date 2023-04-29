@@ -1,0 +1,15 @@
+C:\Users\thisi\CodeItAll\LearningCS\LotsOfAccounts\obj\Debug\net7.0\LotsOfAccounts.csproj.AssemblyReference.cache
+C:\Users\thisi\CodeItAll\LearningCS\LotsOfAccounts\obj\Debug\net7.0\LotsOfAccounts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thisi\CodeItAll\LearningCS\LotsOfAccounts\obj\Debug\net7.0\LotsOfAccounts.AssemblyInfoInputs.cache
+C:\Users\thisi\CodeItAll\LearningCS\LotsOfAccounts\obj\Debug\net7.0\LotsOfAccounts.AssemblyInfo.cs
+C:\Users\thisi\CodeItAll\LearningCS\LotsOfAccounts\obj\Debug\net7.0\LotsOfAccounts.csproj.CoreCompileInputs.cache
+C:\Users\thisi\CodeItAll\LearningCS\LotsOfAccounts\bin\Debug\net7.0\LotsOfAccounts.exe
+C:\Users\thisi\CodeItAll\LearningCS\LotsOfAccounts\bin\Debug\net7.0\LotsOfAccounts.deps.json
+C:\Users\thisi\CodeItAll\LearningCS\LotsOfAccounts\bin\Debug\net7.0\LotsOfAccounts.runtimeconfig.json
+C:\Users\thisi\CodeItAll\LearningCS\LotsOfAccounts\bin\Debug\net7.0\LotsOfAccounts.dll
+C:\Users\thisi\CodeItAll\LearningCS\LotsOfAccounts\bin\Debug\net7.0\LotsOfAccounts.pdb
+C:\Users\thisi\CodeItAll\LearningCS\LotsOfAccounts\obj\Debug\net7.0\LotsOfAccounts.dll
+C:\Users\thisi\CodeItAll\LearningCS\LotsOfAccounts\obj\Debug\net7.0\refint\LotsOfAccounts.dll
+C:\Users\thisi\CodeItAll\LearningCS\LotsOfAccounts\obj\Debug\net7.0\LotsOfAccounts.pdb
+C:\Users\thisi\CodeItAll\LearningCS\LotsOfAccounts\obj\Debug\net7.0\LotsOfAccounts.genruntimeconfig.cache
+C:\Users\thisi\CodeItAll\LearningCS\LotsOfAccounts\obj\Debug\net7.0\ref\LotsOfAccounts.dll
