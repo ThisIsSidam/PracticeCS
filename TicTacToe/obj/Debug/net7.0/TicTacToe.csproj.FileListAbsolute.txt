@@ -1,0 +1,15 @@
+C:\Users\thisi\CodeItAll\LearningCS\TicTacToe\obj\Debug\net7.0\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\thisi\CodeItAll\LearningCS\TicTacToe\obj\Debug\net7.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thisi\CodeItAll\LearningCS\TicTacToe\obj\Debug\net7.0\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\thisi\CodeItAll\LearningCS\TicTacToe\obj\Debug\net7.0\TicTacToe.AssemblyInfo.cs
+C:\Users\thisi\CodeItAll\LearningCS\TicTacToe\obj\Debug\net7.0\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\thisi\CodeItAll\LearningCS\TicTacToe\bin\Debug\net7.0\TicTacToe.exe
+C:\Users\thisi\CodeItAll\LearningCS\TicTacToe\bin\Debug\net7.0\TicTacToe.deps.json
+C:\Users\thisi\CodeItAll\LearningCS\TicTacToe\bin\Debug\net7.0\TicTacToe.runtimeconfig.json
+C:\Users\thisi\CodeItAll\LearningCS\TicTacToe\bin\Debug\net7.0\TicTacToe.dll
+C:\Users\thisi\CodeItAll\LearningCS\TicTacToe\bin\Debug\net7.0\TicTacToe.pdb
+C:\Users\thisi\CodeItAll\LearningCS\TicTacToe\obj\Debug\net7.0\TicTacToe.dll
+C:\Users\thisi\CodeItAll\LearningCS\TicTacToe\obj\Debug\net7.0\refint\TicTacToe.dll
+C:\Users\thisi\CodeItAll\LearningCS\TicTacToe\obj\Debug\net7.0\TicTacToe.pdb
+C:\Users\thisi\CodeItAll\LearningCS\TicTacToe\obj\Debug\net7.0\TicTacToe.genruntimeconfig.cache
+C:\Users\thisi\CodeItAll\LearningCS\TicTacToe\obj\Debug\net7.0\ref\TicTacToe.dll
